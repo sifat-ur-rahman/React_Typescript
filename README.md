@@ -25,7 +25,7 @@
   - hooks types
 
 ## 2. Environment setup
-    ### npm install -g typescript
+    ###npm install -g typescript
 - install react+ts -> `npx create-react-app appName --template typescript`
 
 ## 3. typescript for Props - built in types
