@@ -1,5 +1,5 @@
 
-# React + Typescript documentation
+# React Typescript 
 
 - prerequisities - TypeScript, React Fundamentals
 
@@ -26,7 +26,6 @@
 
 ## 2. Environment setup
 
-- install node & VSCode
 - install react+ts -> `npx create-react-app appName --template typescript`
 
 ## 3. typescript for Props - built in types
